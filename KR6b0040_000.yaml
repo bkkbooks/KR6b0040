@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6b0040/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 修行本起經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T03/T03n0184.xml
+    old_id: T03n0184
+hash: sha256:aa33e7dd69cb5478bc64c7a7a8ac600c10bbf3c5989d15a213d5bae9c0ed63ec
